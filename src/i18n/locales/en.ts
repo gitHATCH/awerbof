@@ -1,0 +1,25 @@
+const en = {
+  'app.language': 'Language',
+  'app.language.es': 'Spanish',
+  'app.language.en': 'English',
+  'app.language.pt': 'Portuguese',
+  'login.brand': 'AWER Reviews',
+  'login.brandTag': 'Business',
+  'login.title': 'Business sign in',
+  'login.subtitle': 'Manage your customer reviews',
+  'login.caption': 'Enter your credentials to stay on top of every experience.',
+  'login.success': 'Login successful',
+  'login.error.unexpected': 'An unexpected error occurred while signing in.',
+  'login.footer.disclaimer': 'Your information is protected with certified security standards.',
+  'login.badges.dataFiscal.title': 'DATA FISCAL',
+  'login.badges.dataFiscal.subtitle': 'AFIP',
+  'login.badges.approved.title': 'AMP',
+  'login.badges.approved.subtitle': 'Vendor Monitoring Agency',
+  'loginForm.emailLabel': 'Email address',
+  'loginForm.passwordLabel': 'Password',
+  'loginForm.submit': 'Sign in',
+  'loginForm.togglePassword': 'Show password',
+  'loginForm.forgotPassword': 'Forgot your password?',
+} as const;
+
+export default en;

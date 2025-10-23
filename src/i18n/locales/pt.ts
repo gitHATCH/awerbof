@@ -1,0 +1,25 @@
+const pt = {
+  'app.language': 'Idioma',
+  'app.language.es': 'Espanhol',
+  'app.language.en': 'Inglês',
+  'app.language.pt': 'Português',
+  'login.brand': 'AWER Reviews',
+  'login.brandTag': 'Business',
+  'login.title': 'Login Business',
+  'login.subtitle': 'Gerencie as avaliações dos seus clientes',
+  'login.caption': 'Insira suas credenciais para administrar a experiência dos clientes.',
+  'login.success': 'Login realizado com sucesso',
+  'login.error.unexpected': 'Ocorreu um erro inesperado ao fazer login.',
+  'login.footer.disclaimer': 'Seus dados estão protegidos com padrões de segurança certificados.',
+  'login.badges.dataFiscal.title': 'DATA FISCAL',
+  'login.badges.dataFiscal.subtitle': 'AFIP',
+  'login.badges.approved.title': 'AMP',
+  'login.badges.approved.subtitle': 'Agência de Monitoramento de Fornecedores',
+  'loginForm.emailLabel': 'E-mail',
+  'loginForm.passwordLabel': 'Senha',
+  'loginForm.submit': 'Entrar',
+  'loginForm.togglePassword': 'Mostrar senha',
+  'loginForm.forgotPassword': 'Esqueceu sua senha?',
+} as const;
+
+export default pt;

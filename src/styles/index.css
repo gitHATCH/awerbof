@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply min-h-screen bg-[#f7fbf9] text-slate-900 antialiased;
+}
+
+#root {
+  @apply min-h-screen;
+}
